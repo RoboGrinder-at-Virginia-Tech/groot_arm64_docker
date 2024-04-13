@@ -1,0 +1,1 @@
+If using this modify the script to point to your actual folder/folder you want to mount, beginning of script is just to enable X11 graphics forwarding
